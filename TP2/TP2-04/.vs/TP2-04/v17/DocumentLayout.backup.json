@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991105EA-C811-41EC-951A-77FB26F65B65}|TP2-04.csproj|c:\\users\\philv\\source\\repos\\phil-development\\3p-dev-c_sharp\\tp2\\tp2-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991105EA-C811-41EC-951A-77FB26F65B65}|TP2-04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2-04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2-04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:44:07.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

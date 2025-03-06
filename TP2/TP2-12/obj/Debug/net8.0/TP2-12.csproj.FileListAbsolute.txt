@@ -1,0 +1,15 @@
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\bin\Debug\net8.0\TP2-12.exe
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\bin\Debug\net8.0\TP2-12.deps.json
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\bin\Debug\net8.0\TP2-12.runtimeconfig.json
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\bin\Debug\net8.0\TP2-12.dll
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\bin\Debug\net8.0\TP2-12.pdb
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.AssemblyInfoInputs.cache
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.AssemblyInfo.cs
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.csproj.CoreCompileInputs.cache
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.sourcelink.json
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.dll
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\refint\TP2-12.dll
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.pdb
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\TP2-12.genruntimeconfig.cache
+C:\Users\philv\source\repos\phil-development\3P-DEV-C_SHARP\TP2\TP2-12\obj\Debug\net8.0\ref\TP2-12.dll
