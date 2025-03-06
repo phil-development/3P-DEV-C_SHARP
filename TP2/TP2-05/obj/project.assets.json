@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2_05\\TP2_05.csproj",
-      "projectName": "TP2_05",
-      "projectPath": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2_05\\TP2_05.csproj",
+      "projectUniqueName": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2_05\\TP2-05.csproj",
+      "projectName": "TP2-05",
+      "projectPath": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2_05\\TP2-05.csproj",
       "packagesPath": "C:\\Users\\philv\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\philv\\source\\repos\\phil-development\\3P-DEV-C_SHARP\\TP2\\TP2_05\\obj\\",
       "projectStyle": "PackageReference",
