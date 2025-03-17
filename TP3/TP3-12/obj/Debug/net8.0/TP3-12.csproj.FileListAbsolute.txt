@@ -1,0 +1,15 @@
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\bin\Debug\net8.0\TP3-12.exe
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\bin\Debug\net8.0\TP3-12.deps.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\bin\Debug\net8.0\TP3-12.runtimeconfig.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\bin\Debug\net8.0\TP3-12.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\bin\Debug\net8.0\TP3-12.pdb
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.AssemblyInfoInputs.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.AssemblyInfo.cs
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.csproj.CoreCompileInputs.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.sourcelink.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\refint\TP3-12.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.pdb
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\TP3-12.genruntimeconfig.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP3-12\obj\Debug\net8.0\ref\TP3-12.dll

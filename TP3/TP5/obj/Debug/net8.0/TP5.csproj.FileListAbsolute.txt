@@ -1,0 +1,15 @@
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\bin\Debug\net8.0\TP5.exe
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\bin\Debug\net8.0\TP5.deps.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\bin\Debug\net8.0\TP5.runtimeconfig.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\bin\Debug\net8.0\TP5.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\bin\Debug\net8.0\TP5.pdb
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.AssemblyInfoInputs.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.AssemblyInfo.cs
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.csproj.CoreCompileInputs.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.sourcelink.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\refint\TP5.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.pdb
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\TP5.genruntimeconfig.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\TP3\TP5\obj\Debug\net8.0\ref\TP5.dll
