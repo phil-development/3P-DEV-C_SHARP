@@ -1,0 +1,15 @@
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\bin\Debug\net8.0\AT-03.exe
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\bin\Debug\net8.0\AT-03.deps.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\bin\Debug\net8.0\AT-03.runtimeconfig.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\bin\Debug\net8.0\AT-03.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\bin\Debug\net8.0\AT-03.pdb
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.AssemblyInfoInputs.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.AssemblyInfo.cs
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.csproj.CoreCompileInputs.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.sourcelink.json
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\refint\AT-03.dll
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.pdb
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\AT-03.genruntimeconfig.cache
+C:\Users\philv\Documents\home\work\development\infnet\3P-DEV-C_SHARP\AT\AT-03\obj\Debug\net8.0\ref\AT-03.dll
